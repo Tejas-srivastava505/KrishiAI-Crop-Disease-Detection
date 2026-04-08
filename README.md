@@ -180,3 +180,5 @@ files.download('tflite/krishiai_efficientnetb0_int8.tflite')
 ---
 
 *KrishiAI · IT-A · 2024-25 · KVK Udupi Partnership*
+
+

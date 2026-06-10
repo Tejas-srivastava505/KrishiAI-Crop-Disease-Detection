@@ -7,11 +7,11 @@
 
 ```
 krishiai/
-├── config.py                  # ← All hyperparameters & paths (edit this first)
-├── step1_data_pipeline.py     # Download → Clean → Split → tf.data
-├── step2_train.py             # Train EfficientNetB0 (2 phases)
-├── step3_evaluate.py          # Confusion matrix, ROC, Grad-CAM
-├── step4_export_and_infer.py  # TFLite INT8 export + inference engine
+├── config.ipynb                  # ← All hyperparameters & paths (edit this first)
+├── step1_data_pipeline.ipynb     # Download → Clean → Split → tf.data
+├── step2_train.ipynb             # Train EfficientNetB0 (2 phases)
+├── step3_evaluate.ipynb          # Confusion matrix, ROC, Grad-CAM
+├── step4_export_and_infer.ipynb  # TFLite INT8 export + inference engine
 ├── requirements.txt
 │
 ├── data/
